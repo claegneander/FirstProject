@@ -1,0 +1,6 @@
+name: FirstProject
+version: '${project.version}'
+main: com.theracraft.firstproject.Main
+api-version: 1.19
+authors: [ totally_tadpole ]
+description: Our first plugin.
